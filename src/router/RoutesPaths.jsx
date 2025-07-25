@@ -1,4 +1,4 @@
-import Courses from "../Components/pages/Courses";
+import Courses from '../Components/pages/Courses';
 import Home from "../Components/pages/Home";
 import Profile from "../Components/pages/Profile";
 import SigIn from "../Components/pages/SigIn";
